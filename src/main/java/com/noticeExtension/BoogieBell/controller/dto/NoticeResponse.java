@@ -2,7 +2,6 @@ package com.noticeExtension.BoogieBell.controller.dto;
 
 import com.noticeExtension.BoogieBell.domain.Notice;
 import com.noticeExtension.BoogieBell.domain.NoticeType;
-
 import java.time.LocalDate;
 
 public record NoticeResponse(
